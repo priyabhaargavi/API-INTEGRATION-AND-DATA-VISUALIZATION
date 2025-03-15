@@ -21,4 +21,4 @@ Finally, the preprocessed data is visualized using Streamlit, which provides an 
 *OUTPUT*
 
 
-https://github.com/user-attachments/assets/caf7901c-248a-4a06-a6c0-f2c04d4a6fb3
+![Image](https://github.com/user-attachments/assets/a9e1fa32-4bd8-4712-a108-7628dc1bfb0f)
